@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/animes/static/css/main.fe786543.chunk.css",
+    "main.js": "/animes/static/js/main.b29b34b8.chunk.js",
+    "main.js.map": "/animes/static/js/main.b29b34b8.chunk.js.map",
+    "runtime-main.js": "/animes/static/js/runtime-main.f6de28a4.js",
+    "runtime-main.js.map": "/animes/static/js/runtime-main.f6de28a4.js.map",
+    "static/css/2.53150396.chunk.css": "/animes/static/css/2.53150396.chunk.css",
+    "static/js/2.3d1a1b38.chunk.js": "/animes/static/js/2.3d1a1b38.chunk.js",
+    "static/js/2.3d1a1b38.chunk.js.map": "/animes/static/js/2.3d1a1b38.chunk.js.map",
+    "index.html": "/animes/index.html",
+    "static/css/2.53150396.chunk.css.map": "/animes/static/css/2.53150396.chunk.css.map",
+    "static/css/main.fe786543.chunk.css.map": "/animes/static/css/main.fe786543.chunk.css.map",
+    "static/js/2.3d1a1b38.chunk.js.LICENSE.txt": "/animes/static/js/2.3d1a1b38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6de28a4.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.3d1a1b38.chunk.js",
+    "static/css/main.fe786543.chunk.css",
+    "static/js/main.b29b34b8.chunk.js"
+  ]
+}
