@@ -1,0 +1,11 @@
+/* #root{
+    background-color: green;
+    /* background-image: url('images/background-1.png'); */
+
+div#root {
+    background: green;
+
+}
+@media (min-width:) {
+    
+}

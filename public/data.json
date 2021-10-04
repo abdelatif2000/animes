@@ -1,0 +1,135 @@
+{
+    "animes":[
+       {
+           "id":1,
+           "url":"https://i1.wp.com/ww.anime4up.com/wp-content/uploads/2020/07/5DFG4SDF4G4FJ64GFDH.png?resize=215%2C300&ssl=1",
+           "title":"Hunter x Hunter",
+           "iframe":"https://www.4shared.com/web/embed/file/ND06fF2yiq",
+           "desc":"قصة فيلم Hunter x Hunter Movie 1: Phantom Rouge تدور حول كورابيكا في الأساس حيث تسرق عيناه من قبلصانع الدمى الإلهي و ينطلق جون و كيلوا و ليوريو للبحث عن العينين المسروقتين حيث أن صانع الدمى الإلهية يحتاج لإحياء الدمى التي يصنعها إلى عيني إنسان فتسرق عيني كورابيكا لأجل احياء بايرو و يلتقي جون و كيلوا في طريقهما ب ريتز التي تساعده ما في البحث عن صانع الدمى الذي هو في الحقيقة أخوها و يضحي جون بعينيه لأجل إيجاد عيني كورابيكا و ينجح الأصدقاء في النهاية ويسترد كل من جون و كورابيكا عينيهما."
+
+       },
+        {
+         
+            "id":"2",
+            "url":"https://i1.wp.com/ww.anime4up.com/wp-content/uploads/2021/08/SDGHD54HJ5ED4GDFHFHJ.png?fit=318%2C448&ssl=1",
+            "title":"Aria the Crepuscolo",
+             "iframe":"https://uptostream.com/iframe/se41sdt526us",
+             "desc" :"قصة فيلم Aria the Crepuscolo تتمة أحداث السلسلة .. انجرفو بسلام إلى “نيو فينيسيا”، وهي مدينة على كوكب “اكوا” (المعروف سابقًا باسم المريخ). بحلول القرن الرابع والعشرين، وجد البشر طريقة لاستعمار هذا الكوكب الذي لم يكن صالحًا للسكن سابقًا. وبقدر ما يبدو ذلك مستقبليًا، “نيو فينيسيا” يغمرها الجمال الريفي. زوارق على القنوات الواسعة، الممرات المائية هي وسيلة النقل الرئيسية. المدينة نفسها هي نسخة من مدينة البندقية (سابقا على الأرض)."             
+        },
+        {
+         
+            "id":"3",
+            "url":"https://i2.wp.com/ww.anime4up.com/wp-content/uploads/2021/08/584QDS5GH6DSFHJDF.png?fit=299%2C440&ssl=1",
+            "title":"The Witcher: Nightmare of the Wolf",
+             "iframe":"https://uptostream.com/iframe/3fcwm0ffjvwr ",
+             "desc" :"يهرب فيسيمير من الفقر ويصبح واحدا منالويتشر فيقتل الوحوش مقابل المال والمجد… ولكن يتعين عليه مواجهة هواجس ماضيه حين يظهر تهديد جديد."             
+        },
+        {
+         
+            "id":"4",
+            "url":"https://i1.wp.com/ww.anime4up.com/wp-content/uploads/2021/08/2154S6DF5HG65QDFSGSDFG.png?fit=318%2C447&ssl=1",
+            "title":"Kakushigoto Movie",
+             "iframe":"https://uptostream.com/iframe/q9yt4ycvxjdb ",
+             "desc" :"قصة فيلم Kakushigoto Movie تلخص أحداث الأنمي مع مشاهد إضافية."             
+        },
+        {
+         
+            "id":"5",
+            "url":"https://i2.wp.com/ww.anime4up.com/wp-content/uploads/2021/08/SGHDFH4J784SDFG54FGJGFUJ.png?fit=282%2C400&ssl=1",
+            "title":"Majo Minarai wo Sagashite",
+             "iframe":"https://uptostream.com/iframe/vq8hj6xwnej1 ",
+             "desc" :"قصة فيلم Majo Minarai wo Sagashite هي تتمة أحداث الانمي .. تتبع القصة عاملة مكتب طوكيو البالغة من العمر 27 عامًا “يوشيزوكي ميري” التي عادت للتو إلى اليابان. و“ناجاسي سورا”، التي تبلغ من العمر 22 عامًا، وهي طالبة في الجامعة وتطمح في أن تصبح معلمة. والصبيانية “كواتاني ريكا” البالغة من العمر 20 عامًا، هي عاملة في متجر “هيروشيما اوكونومياكي” بدوام جزئي. لتبدأ “القصة السحرية الجديدة” عندما تلتقي النساء الثلاث من مختلف نواحي الحياة بشكل غامض عن طريق الصدفة، ويشرعن في رحلة."             
+        },
+        {
+         
+            "id":"6",
+            "url":"https://i0.wp.com/ww.anime4up.com/wp-content/uploads/2021/08/7SD8FJ465D4GHKDFGSFDG.png?fit=317%2C449&ssl=1",
+            "title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
+             "iframe":"https://uptostream.com/iframe/bscnvcvtif6y",
+             "desc" :"قصة فيلم Majo Minarai wo Sagashite هي تتمة أحداث الانمي .. تتبع القصة عاملة مكتب طوكيو البالغة من العمر 27 عامًا “يوشيزوكي ميري” التي عادت للتو إلى اليابان. و“ناجاسي سورا”، التي تبلغ من العمر 22 عامًا، وهي طالبة في الجامعة وتطمح في أن تصبح معلمة. والصبيانية “كواتاني ريكا” البالغة من العمر 20 عامًا، هي عاملة في قصة فيلم Evangelion: 3.0+1.0 Thrice Upon a Time هي تتمة أحداث الفيلم السابق .. بعد التأثير الثاني، كل ما تبقى من اليابان هو طوكيو 3، وهي مدينة تتعرض للهجوم من قبل مخلوقات عملاقة تسعى إلى القضاء على الجنس البشري، وتدعى “الملائكة”. بعد عدم رؤية والده لأكثر من ثماني سنوات، يتلقى “ايكاري شينجي” مكالمة هاتفية يُطلب منه فيها أن يأتي بشكل عاجل إلى مقر “نيرف” (العصب)، وهي منظمة تحارب “الملائكة” من خلال استخدام الات عملاقة تسمى الـ“ايفا” (من “ايفانغيليون”، أي البشرى أو الخبر السار). والأن هدف “شينجي” هو قيادة وحدة “ايفا 01”، والعمل في فريق مع قائدة وحدة “ايفا 00”، “ايانامي ري”.متجر “هيروشيما اوكونومياكي” بدوام جزئي. لتبدأ “القصة السحرية الجديدة” عندما تلتقي النساء الثلاث من مختلف نواحي الحياة بشكل غامض عن طريق الصدفة، ويشرعن في رحلة."             
+        },
+        {
+         
+            "id":"7",
+            "url":"https://i1.wp.com/ww.anime4up.com/wp-content/uploads/2021/08/FGH54ED5GH4DFJDGH.png?fit=318%2C446&ssl=1",
+            "title":"Pokemon Movie 23: Koko",
+             "iframe":"https://uptostream.com/iframe/mxbbatiwwr2s",
+             "desc" :"قصة فيلم Pokemon Movie 23: Koko تتحدث في غابة “اوكويا”، وهي جنة الـ بوكيمون المحمية بقواعد صارمة تمنع الغرباء من الدخول لها. “كوكو”، صبي تم تربيته من قبل الـ بوكيمون، وهو يعد نفسه واحدًا منهم، ويعتبر الـ بوكيمون “زارود” الأسطوري كوالده. أثناء مغامراتهم، “اش” و “بيكاتشو” يلتقيا بـ“كوكو”."             
+        },
+        {
+         
+            "id":"8",
+            "url":"https://i2.wp.com/ww.anime4up.com/wp-content/uploads/2021/07/8DFGHD65SFGS6DFDGHDSFG.png?fit=319%2C445&ssl=1",
+            "title":"Gintama: The Final",
+             "iframe":"https://uptostream.com/iframe/hxajak0drtez",
+             "desc" :"-الفيلم الجديد والأخير لسلسلة “Gintama”- تستكمل قصص مواسم وأعمال سابقة."             
+        },
+        {
+         
+            "id":"9",
+            "url":"https://i1.wp.com/ww.anime4up.com/wp-content/uploads/2020/12/54FR5H56SRFDFGDFGYHTRY.png?fit=340%2C479&ssl=1",
+            "title":"Kimetsu no Yaiba Movie: Mugen ",
+             "iframe":"https://uptostream.com/iframe/2m5tj9zfv4s4",
+             "desc" :"قصة فيلم Kimetsu no Yaiba Movie: Mugen Ressha-hen تتمة لاحداث الانمي، حيث يقوم “تانجيرو” و “زينتسو” و“اينوسوكي” بشراء تذاكر لـ“القطار الغير محدود” للبحث عن “رينغوكو كونجيرو” عمود اللهب. بأمل أن لديه بعض المعلومات عن رقصة إلاه النار. يخبرهم “رينغوكو” أنه أُرسل في القطار لقتل شيطان يعتقد أنه يسكن بداخله، وأنه لا يعرف شيئًا عن رقصة إلاه النار. سرعان ما أحس بالشيطان وقتله، لتطلب المجموعة التي أعجبت بمهاراته، أن يجعلهم “تسوغوكو” و“رينغوكو” خاص به."             
+        },
+        {
+         
+            "id":"10",
+            "url":"https://i2.wp.com/ww.anime4up.com/wp-content/uploads/2021/03/SR54GG4JUS4FH6JGR.png?fit=314%2C447&ssl=1",
+            "title":"Date A Bullet: Nightmare or Queen ",
+             "iframe":"https://uptostream.com/iframe/kdk1uc2fd1my",
+             "desc" :"قصة فيلم Date A Bullet: Nightmare or Queen تتمة لاحداث الفيلم السابقه."             
+        },
+        {
+         
+            "id":"11",
+            "url":"https://i1.wp.com/ww.anime4up.com/wp-content/uploads/2021/03/54SFDG41FH5JDFG.png?fit=318%2C448&ssl=1",
+            "title":"Human Lost: Ningen Shikkaku ",
+             "iframe":"https://uptostream.com/iframe/ff4wbl4hwmzp",
+             "desc" :"تدور الأحداث عكس الرواية الشهيرة في زمن مستقبلي عام 2036 بمدينة طوكيو ، بعد ثورة طبيّة ساحقة هزمت الموت من خلال نظام تكنولوجي بالغ التعقيد يُدعى “S.H.E.L.L لم يعد هناك أمراض ولا مشاكل صحيّة ولا حتى حاجة لعلاج أي جروح أو اصابات، إلاّ إن العواقب كانت تفجّر طفرة “Human Lost | فقدان البشريّة ” حيث تمكّن بعض البشر الإفلات من ذاك النظام من خلال فصل أنفسهم عنه بإرادتهم، مما تسبّب في مزيد من التشوّهات والخلل النفسي والجسدي، مع خطورة إنتاج فصيلة جديدة من الكائنات تتأرجح بين البشر والمخلوقات البريّة الأقرب للشياطين ! ، بطلنا “يوزو أوبا Youzou Oba” ليس الأغنى، بل إنه كذلك غارق حتى الثمالة في حياة عبثية لا هدف لها، لاجئًا للعقاقير لتسكين آلامه، وفي محاولة للتحايل على تلك الأحلام الغريبة المزعجة التي تُطارده، يجد نفسه وقد تورّط مع عصابة الدرّاجين الذي انضم لهم صديقه، ليتوغّلوا في عملية اختراق داخلية إلى حيث تعيش النُخبة في المجتمع، مما يُشعل فتيل رحلة مرعبة لاكتشاف حياة “يوزو” وتغييرها إلى الأبد."             
+        },
+        {
+            "id":"12",
+            "url":"https://i2.wp.com/ww.anime4up.com/wp-content/uploads/2021/05/54FG4H6456HDSFHFHJFDGH.png?fit=411%2C580&ssl=1",
+            "title":"Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering",
+             "iframe":"https://uptostream.com/iframe/y5mntu6dzbzh",
+             "desc" :"قصة فيلم Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram تدور احداثها عن حرب الكأس المقدسة السادسة، حول الطاولة المستديرة المقدسة بوحدة مملكة “كاميلوت”"             
+        },
+        {
+            "id":"13",
+            "url":"https://i1.wp.com/ww.anime4up.com/wp-content/uploads/2020/07/KJKDFGH5447JK4S6F56H.png?fit=332%2C449&ssl=1",
+            "title":"unter x Hunter Movie 2 ",
+             "iframe":"https://uptostream.com/iframe/5xopzpbbg2j6",
+             "desc" :"قصة فيلم Hunter x Hunter Movie 2: The Last Mission تدور حول انقسام أقوى الصيادين الذين كانوا ينتمون لجمعية الصيادين في السابق إلى “نور” و”ظلام”، ويسلك كل واحد منهم طريقه الخاص. شرع الجانب “المظلم” في مهمة تدمير كل الصيادين"             
+        },
+        {
+            "id":"14",
+            "url":"https://i2.wp.com/ww.anime4up.com/wp-content/uploads/2020/07/DS5G54J47D6FH456KL6GH.png?fit=301%2C396&ssl=1",
+            "title":"Hunter x Hunter Movie 1 ",
+             "iframe":"https://uptostream.com/iframe/zseduhzk9izs",
+             "desc" :"صة فيلم Hunter x Hunter Movie 1: Phantom Rouge تدور حول كورابيكا في الأساس حيث تسرق عيناه من قبل صانع الدمى الإلهية و ينطلق جون و كيلوا و ليوريو للبحث عن العينين المسروقتين حيث أن صانع الدمى الإلهية يحتاج لإحياء الدمى التي يصنعها إلى عيني إنسان فتسرق عيني كورابيكا لأجل احياء بايرو و يلتقي جون و كيلوا في طريقهما ب ريتز التي تساعده ما في البحث عن صانع الدمى الذي هو في الحقيقة أخوها و يضحي جون بعينيه لأجل إيجاد عيني كورابيكا و ينجح الأصدقاء في النهاية ويسترد كل من جون و كورابيكا عينيهما."             
+        },
+        {
+            "id":"15",
+            "url":"https://i0.wp.com/ww.anime4up.com/wp-content/uploads/2020/02/Anime4up.com_002-3.png?fit=283%2C401&ssl=1",
+            "title":"Donten ni Warau Gaiden ",
+             "iframe":"https://uptostream.com/iframe/k9vu48xgmt6d",
+             "desc" :"يعتبر هذا الفيلم الثاني من ثلاثية أفلام Donten ni Warau"             
+        },
+        {
+            "id":"16",
+            "url":"https://i0.wp.com/ww.anime4up.com/wp-content/uploads/2020/01/Anime4up_2020.01.08_14h27m59s_002_.png?fit=319%2C449&ssl=1",
+            "title":"One Piece Movie 14 ",
+             "iframe":"https://uptostream.com/iframe/udx24oyjztcc",
+             "desc" :"قصة فيلم One Piece Movie 14: Stampede تدور حول مهرجان القراصنة الذي يُقام كل بضعة سنوات، يذهب لوفي وطاقمه إليه لصَيْد كنز ملك القراصنة جول دي وجر، ولكنهم يتفاجأون بأن المهرجان مجرد غطاء لما هو أعظم."             
+        }
+                    
+                   
+                       
+
+                       
+                    
+                  
+    ]
+     
+}
